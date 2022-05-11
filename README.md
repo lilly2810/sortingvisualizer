@@ -1,6 +1,6 @@
 # sorting
 
-A new Flutter project.
+A Flutter project to visualize different sorting algorithms.
 
 ## Getting Started
 
